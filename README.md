@@ -1,4 +1,4 @@
 # DVGab.github.io
-Dione Vince Gabrielle Lim
+*Dione Vince Gabrielle Lim*
 
-LG Brebeuf
+LG **Brebeuf**
